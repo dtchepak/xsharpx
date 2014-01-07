@@ -33,7 +33,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.cs" />
-    <Compile Include="src\XSharpx\Dict.cs" />
+    <Compile Include="src\XSharpx\KVStore.cs" />
     <Compile Include="src\XSharpx\Option.cs" />
     <Compile Include="src\XSharpx\Pair.cs" />
     <Compile Include="src\XSharpx\ListBuffer.cs" />
